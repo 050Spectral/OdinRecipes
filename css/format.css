@@ -1,0 +1,9 @@
+body{
+    background-image: radial-gradient(circle, #e1a474, #e6b477, #e9c57b, #e8d783, #e5e98f);
+}
+#titleLine{
+    width: 40%;
+    margin-left: 0px;
+    border: none;
+    height: 5px;
+    background-image: linear-gradient(to right, #ff0000, #ff5000, #ff7600, #ff9500, #ffb100);}
